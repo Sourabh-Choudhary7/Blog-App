@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "TechCrunch",
+      "body": "TechCrunch is a blog that provides technology and startup news, from the latest developments in Silicon Valley to venture capital funding.\n\nThe blog’s target audience is technology and business enthusiasts, especially startup founders and investors worldwide.",
+      "author": "Ervin Howell",
+      "id": 1
+    },
+    {
+      "title": "Virat Kholi",
+      "body": "Virat Kohli was born on 5 November 1988 in Delhi into a Punjabi Hindu family. His father, Prem Kohli, worked as a criminal lawyer and his mother, Saroj Kohli, served as a housewife. He has an older brother, Vikas, and an older sister, Bhawna.[6] Kohli's formative years were spent in Uttam Nagar. He commenced his early education at Vishal Bharti Public School.[7] According to his family, Kohli exhibited an early affinity for cricket as a mere three-year-old. He would pick up a cricket bat, display natural skill, and request his father to bowl to him.[8]",
+      "author": "Mrs. Dennis Schulist",
+      "id": 2
+    },
+    {
+      "title": "Ms Dhoni",
+      "body": "Dhoni was born on 7 July 1981 in Ranchi, Bihar (now in Jharkhand) in a Hindu Rajput family to Pan Singh and Devaki Devi. [3] His parents hailed from Lwali village in Uttar Pradesh (now Uttarakhand) and he was the youngest of three children.[4][5][6] His family spells the surname as \"Dhauni\".[7]\n\nDhoni did his schooling at DAV Jawahar Vidya Mandir where he started playing football as a goal keeper but later moved to play cricket on the suggestion of his coach Keshav Banerjee.[8][9] From 2001 to 2003, Dhoni worked as a Travelling Ticket Examiner (TTE) at Kharagpur under South Eastern Railway zone of Indian Railways.[10][11]",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
