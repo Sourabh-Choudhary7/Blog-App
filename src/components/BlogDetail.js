@@ -22,7 +22,7 @@ export default function BlogDetail() {
     {blogs && <article>
       <h2>Your Blogs Title : {blogs.title}</h2>
       <i> Written by {blogs.author}</i> 
-      <p>{blogs.body}</p>
+      <p>body :{blogs.body}</p>
       <button className='btn-delete' onClick={() => handleDelete(blogs.id)}>Delete</button>
     </article>}
     </div>
