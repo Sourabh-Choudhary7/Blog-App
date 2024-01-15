@@ -20,9 +20,9 @@ export default function BlogDetail() {
     {/* <p>{blogs.body}</p> */}
     {isPending && <div>Loading...</div>}
     {blogs && <article>
-      <h2>Your Blogs Title : {blogs.title}</h2>
+      <h2>{blogs.title}</h2>
       <i> Written by {blogs.author}</i> 
-      <p>body :{blogs.body}</p>
+      <p>{blogs.body}</p>
       <button className='btn-delete' onClick={() => handleDelete(blogs.id)}>Delete</button>
     </article>}
     </div>
